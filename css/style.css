@@ -1,0 +1,58 @@
+body {
+	background: url(bg3.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+ }
+
+h1 {
+	font-size: 50px;
+	letter-spacing: 2px;
+	text-align: center;
+	padding: 40px;
+	color: black;
+	-webkit-text-fill-color: black;
+	-webkit-text-stroke-width:1px;
+
+ }
+
+ h2 {
+	font-size: 50px;
+	letter-spacing: 2px;
+	text-align: center;
+	padding: 40px;
+	color: black;
+	-webkit-text-fill-color: black;
+	-webkit-text-stroke-width:1px;
+ }
+
+ img {
+ 	border-style: solid;
+ 	border-width: 6px;
+ 	border-color: white;
+}
+
+p {
+	font-size: 25px;
+	text-align: center;
+	padding: 40px;
+	color: rgb(0, 0, 0);
+	-webkit-text-fill-color: white;
+	-webkit-text-stroke-width:0.8px;
+ }
+
+ footer {
+	font-size: 20px;
+	padding: 40px;
+	color: black;
+	-webkit-text-fill-color: white;
+	-webkit-text-stroke-width:0.5px;
+	background: #000000;
+    display: inline-block;
+	width: 300px;
+	height: 20px;
+ }
+
+ a {
+	 font-size: 25px;
+	 color: rgba(255, 255, 255, 0.549);
+ }

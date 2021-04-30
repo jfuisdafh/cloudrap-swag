@@ -1,0 +1,62 @@
+body {
+	background: url(bg4.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+    font-size: 50px;
+	letter-spacing: 7px;
+	text-align: center;
+	background: -webkit-linear-gradient(120deg, #ff00f7, #00d0ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ }
+
+p {
+    font-size: 23px;
+	text-align: center;
+	padding: 40px;
+	color: rgb(255, 255, 255);
+    background: #ff05ea06;
+    display: inline-block;
+    width: 1200px;
+ }
+
+ table {
+    width: 350px;
+    height: 150px;
+    border-spacing: 1px;
+}
+
+caption {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+th {
+    background-color: #00d0ff23;
+    color: #ffffff;
+}
+
+td {
+    color: white;
+    background-color: #0de7ff12;
+    text-align: center;
+}
+ th, caption {
+    text-align: center;
+}
+
+ table, th, td {
+    border: 1px solid #ff00f7;
+}
+
+ th, td {
+    padding: 7px;
+}
+
+ a {
+    font-size: 20px;
+    color: rgb(255, 86, 213);
+ }

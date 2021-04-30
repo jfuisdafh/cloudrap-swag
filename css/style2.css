@@ -1,0 +1,42 @@
+body {
+	background: url(bg1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+ }
+
+ h1 {
+	font-size: 50px;
+	letter-spacing: 2px;
+	text-align: center;
+	padding: 40px;
+	color: black;
+	-webkit-text-fill-color: black;
+	-webkit-text-stroke-width: 1px;
+	background: rgb(80, 0, 0);
+    display: inline-block;
+	width: 400px;
+	height: 100px;
+}
+
+p {
+    font-size: 23px;
+	text-align: center;
+	padding: 40px;
+	color: rgb(255, 255, 255);
+}
+
+img {
+   border-style: solid;
+   border-width: 3px;
+   border-color: rgb(255, 255, 255);
+}
+
+#toptext {
+    text-align: center;
+    color: white;
+ }
+
+ a {
+    font-size: 22px;
+    color: rgba(255, 9, 9, 0.35);
+}
